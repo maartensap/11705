@@ -1,0 +1,17 @@
+| Week | Date  | Topics                                                       | In-class                                                     | Instructors                                         |
+| ---- | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------- |
+| 1    | 08/29 | Introduction to LTI, Research Workflows, Academic Ecosystem  | SSH/cluster demo, icebreakers, snacks                        | Maarten Sap; Mona Diab; Stacey Young; Daniel Vosler |
+| 2    | 09/05 | Reading Academic Papers: types, finding, staying current     | Group paper discussion                                       | Daniel Fried; Sean Welleck                          |
+| 3    | 09/12 | Picking & Crafting Research Problems, Scientific Method, Benchmarking, Long-term Planning | Group hypothesis and experiment design                       | Carlos Busso; Yonatan Bisk                          |
+| 4    | 09/19 | Data Visualization & Statistical Analysis for NLP            | Create plots and conduct statistical analysis with provided data | Carolyn Rosé; Daphne Ippolito                       |
+| 5    | 09/26 | Ethical Considerations: Human subjects, IRB, privacy, societal impact, academic integrity | Write societal implications section of a paper (**graded**)  | Fernando Diaz; Lori Levin                           |
+| 6    | 10/03 | Scientific Writing for Impact, Co-authorship, Writing Tips   | Timed writing: sketch an introduction or analyze sample introductions (**graded**) | David Mortensen; Eric Nyberg                        |
+| 7    | 10/10 | Peer Review Process, Writing Reviews, Rebuttals              | Write and swap peer reviews (**graded**)                     | Teruko Mitamura; Jamie Callan                       |
+| —    | 10/17 | *Fall Break*                                                 | —                                                            | —                                                   |
+| 8    | 10/24 | Research Talks & Posters, Online/Open-Source Presence        | Critique research talks and posters                          | Maarten Sap; Emma Strubell                          |
+| 9    | 10/31 | Student Research Presentations                               | Student presentations with peer feedback (**graded**)        | Maarten Sap                                         |
+| 10   | 11/07 | Student Research Presentations                               | Student presentations with peer feedback (**graded**)        | Maarten Sap                                         |
+| 11   | 11/14 | Professional Development & Networking: Interviews, Online Presence, Conference Prep | Build or critique personal homepage                          | Shinji Watanabe; Lei Li                             |
+| 12   | 11/21 | Challenges in Academia, Time Management, Mental Health       | Small group wellness/time management discussion              | PhD students                                        |
+| 13   | 11/28 | *Thanksgiving break*                                         | —                                                            | —                                                   |
+| 14   | 12/05 | Inclusive Research, Mentoring, TAing, Long-term Career Planning: Academic, Industry, Alternative Paths | In-class activity: small group discussions about the topics of the course and this lecture | Alon Lavie                                          |
